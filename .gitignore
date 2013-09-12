@@ -1,0 +1,25 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven generated output #
+target
+
+# Eclipse files.
+.project
+.classpath
+.settings
+
+# IntelliJ IDEA files.
+.idea
+*.iml
+
+# OS
+.DS_Store
+
+# Misc
+*.swp
+.java-version
