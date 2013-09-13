@@ -23,4 +23,6 @@ class DataSource
     static constraints = {
         license nullable:true
     }
+
+    def toString = { name }
 }
