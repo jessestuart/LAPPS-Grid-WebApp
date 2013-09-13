@@ -3,13 +3,13 @@ package lappsgrid.app
 
 
 import grails.test.mixin.*
-import org.junit.*
+import org.lappsgrid.app.DiscriminatorType
 
 /**
  * See the API for {@link grails.test.mixin.domain.DomainClassUnitTestMixin} for usage instructions
  */
-@TestFor(DiscriminatorTypeTable)
-class DiscriminatorTypeTableTests {
+@TestFor(DiscriminatorType)
+class DiscriminatorTypeTests {
 
     void testSomething() {
        fail "Implement me"

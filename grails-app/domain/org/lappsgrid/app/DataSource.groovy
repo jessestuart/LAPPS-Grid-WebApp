@@ -1,4 +1,4 @@
-package lappsgrid.app
+package org.lappsgrid.app
 
 class DataSource
 {
@@ -21,5 +21,6 @@ class DataSource
     // TODO add doc type
 
     static constraints = {
+        license nullable:true
     }
 }

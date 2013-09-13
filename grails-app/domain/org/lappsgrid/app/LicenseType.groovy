@@ -1,4 +1,4 @@
-package lappsgrid.app
+package org.lappsgrid.app
 
 class LicenseType
 {
